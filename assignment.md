@@ -1,4 +1,4 @@
-# 3D Room Scene Semantic Segmentation Assignment- Your Full Name 
+# 3D Room Scene Semantic Segmentation Assignment- Siddharth Shukla
 
 In this assignment, you’ll work with **3D indoor point clouds** and design a pipeline to segment room scenes into meaningful components (floor, walls, ceiling, furniture) using **geometry-based clustering only** — no deep learning.  
 The focus is on spatial reasoning, clustering, and rule-based labeling.  
