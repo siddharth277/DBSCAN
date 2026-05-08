@@ -2,7 +2,7 @@
 
 A complete Python pipeline that loads a real indoor 3D point cloud from the **Stanford S3DIS dataset**, segments it into semantic regions (floor, ceiling, wall, furniture, beam, window), and exports colorized visualizations and a `.ply` file you can open in MeshLab or CloudCompare.
 
----
+----
 
 ## Table of Contents
 
